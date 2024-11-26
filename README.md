@@ -8,7 +8,7 @@ Passionate Software developer with over 4 years of experience in software develo
 
 *   🌍  I'm based in Cali - Colombia
 *   ✉️  You can contact me at [williamisrael210@gmail.com](mailto:williamisrael210@gmail.com)
-*   🧠  I'm learning Flutter, C++
+*   🧠  I'm Learning master in java and reactive development
 
 
 ### Skills 
